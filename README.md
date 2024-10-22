@@ -1,2 +1,3 @@
 # HELLO-WORLD
-This repository is for practicing the GitHub Flow.
+My name is Glory Olorunsaye.I'm A computer science student in the University of Lagos.
+I'm currently learning web development.
